@@ -1,0 +1,52 @@
+[27-Mar-2023 10:27:38 America/Chicago] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home2/torzo4it/public_html/dev/trisala/app/Helper/helper.php on line 225
+[27-Mar-2023 10:27:40 America/Chicago] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home2/torzo4it/public_html/dev/trisala/app/Helper/helper.php on line 225
+[27-Mar-2023 10:28:00 America/Chicago] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home2/torzo4it/public_html/dev/trisala/app/Helper/helper.php on line 225
+[27-Mar-2023 10:28:00 America/Chicago] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home2/torzo4it/public_html/dev/trisala/app/Helper/helper.php on line 225
+[29-Feb-2024 01:42:30 America/Boise] PHP Warning:  require(/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php): Failed to open stream: No such file or directory in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:42:30 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php(61): composerRequiree796ae75a4ed8cfb7d518b00cd039c10('577e8babc5e897d...', '/home2/echnoind...')
+#1 /home2/echnoind/public_html/admin-portal/vendor/autoload.php(7): ComposerAutoloaderInite796ae75a4ed8cfb7d518b00cd039c10::getLoader()
+#2 /home2/echnoind/public_html/admin-portal/public/index.php(34): require('/home2/echnoind...')
+#3 {main}
+  thrown in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:42:33 America/Boise] PHP Warning:  require(/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php): Failed to open stream: No such file or directory in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:42:33 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php(61): composerRequiree796ae75a4ed8cfb7d518b00cd039c10('577e8babc5e897d...', '/home2/echnoind...')
+#1 /home2/echnoind/public_html/admin-portal/vendor/autoload.php(7): ComposerAutoloaderInite796ae75a4ed8cfb7d518b00cd039c10::getLoader()
+#2 /home2/echnoind/public_html/admin-portal/public/index.php(34): require('/home2/echnoind...')
+#3 {main}
+  thrown in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:42:48 America/Boise] PHP Warning:  require(/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php): Failed to open stream: No such file or directory in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:42:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php(61): composerRequiree796ae75a4ed8cfb7d518b00cd039c10('577e8babc5e897d...', '/home2/echnoind...')
+#1 /home2/echnoind/public_html/admin-portal/vendor/autoload.php(7): ComposerAutoloaderInite796ae75a4ed8cfb7d518b00cd039c10::getLoader()
+#2 /home2/echnoind/public_html/admin-portal/public/index.php(34): require('/home2/echnoind...')
+#3 {main}
+  thrown in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:42:52 America/Boise] PHP Warning:  require(/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php): Failed to open stream: No such file or directory in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:42:52 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php(61): composerRequiree796ae75a4ed8cfb7d518b00cd039c10('577e8babc5e897d...', '/home2/echnoind...')
+#1 /home2/echnoind/public_html/admin-portal/vendor/autoload.php(7): ComposerAutoloaderInite796ae75a4ed8cfb7d518b00cd039c10::getLoader()
+#2 /home2/echnoind/public_html/admin-portal/public/index.php(34): require('/home2/echnoind...')
+#3 {main}
+  thrown in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:45:25 America/Boise] PHP Warning:  require(/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php): Failed to open stream: No such file or directory in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:45:25 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php(61): composerRequiree796ae75a4ed8cfb7d518b00cd039c10('577e8babc5e897d...', '/home2/echnoind...')
+#1 /home2/echnoind/public_html/admin-portal/vendor/autoload.php(7): ComposerAutoloaderInite796ae75a4ed8cfb7d518b00cd039c10::getLoader()
+#2 /home2/echnoind/public_html/admin-portal/public/index.php(34): require('/home2/echnoind...')
+#3 {main}
+  thrown in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:45:28 America/Boise] PHP Warning:  require(/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php): Failed to open stream: No such file or directory in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78
+[29-Feb-2024 01:45:28 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/echnoind/public_html/admin-portal/vendor/composer/../../app/Helper/helper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php(61): composerRequiree796ae75a4ed8cfb7d518b00cd039c10('577e8babc5e897d...', '/home2/echnoind...')
+#1 /home2/echnoind/public_html/admin-portal/vendor/autoload.php(7): ComposerAutoloaderInite796ae75a4ed8cfb7d518b00cd039c10::getLoader()
+#2 /home2/echnoind/public_html/admin-portal/public/index.php(34): require('/home2/echnoind...')
+#3 {main}
+  thrown in /home2/echnoind/public_html/admin-portal/vendor/composer/autoload_real.php on line 78

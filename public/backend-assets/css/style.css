@@ -1,0 +1,76 @@
+.pagination-container {
+    float: right;
+}
+
+.pagination-container .page-link {
+    padding: 0.25rem 0.5rem;
+}
+
+.badge {
+    border-radius: 0;
+    font-weight: 500;
+}
+
+.ck-editor__editable_inline {
+    min-height: 150px;  
+}
+
+/*
+* SWEETALERT
+*/
+
+/* brand color */
+.swal2-popup.swal2-toast {
+    background: #02073e !important;
+}
+
+/* overall size */
+.swal2-container.swal2-bottom>.swal2-popup {
+    width: auto !important;
+}
+.swal2-popup.swal2-toast {
+    padding: 7px 10px !important;
+}
+
+/* success color */
+.swal2-icon.swal2-success .swal2-success-ring {
+    border: 0.25em solid #fff !important;
+}
+.swal2-icon.swal2-success [class^=swal2-success-line] {
+    background-color: #fff !important;
+}
+
+/* warning color */
+.swal2-icon.swal2-error {
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+}
+.swal2-icon.swal2-error [class^=swal2-x-mark-line] {
+    background-color: #fff !important;
+}
+
+/* overall text */
+.swal2-popup.swal2-toast.swal2-icon-success .swal2-title, .swal2-popup.swal2-toast.swal2-icon-warning .swal2-title, .swal2-popup.swal2-toast .swal2-title {
+    color: #fff;
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+/* close color */
+.swal2-close:hover {
+    color: #727272 !important;
+}
+.custom-control-input:checked~.custom-control-label::before{
+    border-color: #46b72a !important;
+    background-color: #46b72a !important;
+}
+.btn-primary:hover{
+    background-color: rgb(0 32 66) !important;
+}
+.admin_web_logo{
+    background-color: #fff !important;
+}
+.active_nav_link{
+    background-color: rgba(255,255,255,.1) !important;
+    color: #fff !important;
+}
