@@ -13,9 +13,9 @@
 <body class="hold-transition login-page">
     <div class="login-box">
         <div class="login-logo">
-            <a href="{{ url('/') }}">
+            <!-- <a href="{{ url('/') }}">
                 <img src="{{ asset('backend-assets/images/logo.jpg') }}" alt="logo" style="height: 100px">
-            </a>
+            </a> -->
         </div>
 
         <div class="card">
