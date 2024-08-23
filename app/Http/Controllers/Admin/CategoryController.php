@@ -29,15 +29,22 @@ class CategoryController extends Controller
         Category::create($request->all());
         return redirect()->route('admin.category.index')->with('success', 'Category created successfully.');
     }
-
-    public function show(Category $category)
+    public function detail(Request $request, $id)
     {
-        return view('admin.category.show', compact('category'));
+        $data = Category::findOrFail($id);
+        return view('admin.category.detail', compact('data'));
     }
 
-    public function edit(Category $category)
+    public function show(Request $request, $id)
     {
-        return view('admin.category.edit', compact('category'));
+        $data = Category::findOrFail($id);
+        return view('admin.category.show', compact('data'));
+    }
+
+    public function edit(Request $request, $id)
+    {
+        $data = Category::findOrFail($id);
+        return view('admin.category.edit', compact('data'));
     }
 
     public function update(Request $request, Category $category)
